@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+registered_faces/*
+!registered_faces/.gitkeep
+outputs/*
+!outputs/.gitkeep
+.venv/
+venv/

@@ -1,0 +1,9 @@
+# RuleBot - Rule-Based Chatbot
+# This project uses ONLY Python's standard library (re, string, datetime,
+# json, os). No external/third-party packages, ML libraries, or APIs
+# are required, which keeps the chatbot lightweight, fully offline,
+# and 100% rule-based as required by the internship task.
+#
+# Recommended Python version: 3.8+
+
+# No external dependencies required.

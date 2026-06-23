@@ -1,0 +1,11 @@
+movieId,title,genres,predicted_rating
+22,Fight Club (1999),Drama|Thriller,3.35
+2,Jumanji (1995),Adventure|Children|Fantasy,3.24
+7,Pocahontas (1995),Animation|Children|Drama|Musical|Romance,3.2
+20,WALL-E (2008),Adventure|Animation|Children|Sci-Fi,3.18
+36,Dune (2021),Adventure|Drama|Sci-Fi|IMAX,3.17
+34,Joker (2019),Crime|Drama|Thriller,3.16
+23,Gladiator (2000),Action|Adventure|Drama,3.15
+27,The Notebook (2004),Drama|Romance,3.13
+25,The Incredibles (2004),Action|Adventure|Animation|Children|Comedy,3.13
+21,The Matrix (1999),Action|Sci-Fi,3.11

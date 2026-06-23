@@ -1,0 +1,44 @@
+/* assets/style.css
+   Lightweight custom styling layered on top of Streamlit's theme
+   (configured in .streamlit/config.toml) for a more polished, "product"
+   feel rather than the default Streamlit look. */
+
+.app-header h1 {
+    margin-bottom: 0.1rem;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+
+.app-subtitle {
+    color: var(--text-color-secondary, #8a8f98);
+    font-size: 1.05rem;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+}
+
+div[data-testid="stMetric"] {
+    background: rgba(120, 120, 255, 0.06);
+    border: 1px solid rgba(120, 120, 255, 0.15);
+    border-radius: 12px;
+    padding: 0.8rem 0.6rem;
+}
+
+div[data-testid="stForm"] {
+    border: 1px solid rgba(150, 150, 150, 0.18);
+    border-radius: 14px;
+    padding: 1.2rem 1.4rem;
+}
+
+button[kind="primary"], button[kind="formSubmit"] {
+    border-radius: 10px !important;
+    font-weight: 600 !important;
+}
+
+[data-testid="stSidebar"] {
+    border-right: 1px solid rgba(150, 150, 150, 0.15);
+}
+
+div[data-testid="stDataFrame"] {
+    border-radius: 10px;
+    overflow: hidden;
+}

@@ -1,0 +1,17 @@
+# Image Captioning AI -- BLIP (Hugging Face Transformers)
+#
+# Core dependencies (genuine pre-trained model, no paid APIs):
+torch>=2.0.0
+transformers>=4.30.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+
+# Notes:
+# - The first run will automatically download the BLIP model weights
+#   ("Salesforce/blip-image-captioning-base", ~990 MB) from the
+#   Hugging Face Hub. An internet connection is required for this
+#   ONE-TIME download; after that, the model is cached locally
+#   (typically under ~/.cache/huggingface) and reused offline.
+# - For CPU-only machines, the default PyPI `torch` build works fine
+#   (just slower than GPU). For CUDA acceleration, install the matching
+#   torch build from https://pytorch.org/get-started/locally/ instead.

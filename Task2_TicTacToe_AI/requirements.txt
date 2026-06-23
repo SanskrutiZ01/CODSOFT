@@ -1,0 +1,9 @@
+# Tic-Tac-Toe AI (Minimax + Alpha-Beta Pruning)
+# This project uses ONLY Python's standard library (random, abc, typing).
+# No machine learning libraries, no external APIs, no third-party packages.
+# This keeps the AI a pure, classical game-theory/search-algorithm
+# implementation as required by the internship task.
+#
+# Recommended Python version: 3.8+
+
+# No external dependencies required.

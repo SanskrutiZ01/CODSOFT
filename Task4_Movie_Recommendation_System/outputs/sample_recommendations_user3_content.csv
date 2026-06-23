@@ -1,0 +1,11 @@
+movieId,title,genres,content_score
+13,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.5624905044465756
+34,Joker (2019),Crime|Drama|Thriller,0.5581207564923908
+22,Fight Club (1999),Drama|Thriller,0.4623722659877948
+37,Top Gun: Maverick (2022),Action|Drama,0.42573250786189787
+23,Gladiator (2000),Action|Adventure|Drama,0.4219256886158031
+38,Everything Everywhere All at Once (2022),Action|Adventure|Comedy|Sci-Fi,0.4079474581588472
+15,Speed (1994),Action|Romance|Thriller,0.4041003605138399
+14,The Shawshank Redemption (1994),Crime|Drama,0.38891284395189657
+29,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi,0.38357214880544843
+10,Star Wars: Episode IV (1977),Action|Adventure|Sci-Fi,0.38357214880544843

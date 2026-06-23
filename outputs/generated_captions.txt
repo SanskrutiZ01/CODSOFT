@@ -1,0 +1,14 @@
+
+============================================================
+Run timestamp: 2026-06-22 14:02:54
+============================================================
+Image  : C:\Users\VivoBook\OneDrive\Desktop\Coding\CODSOFT\Task3_Image_Captioning\sample_images\dog.jpg
+Caption: a dog running in the grass with a red ball in its mouth
+------------------------------------------------------------
+
+============================================================
+Run timestamp: 2026-06-23 09:53:06
+============================================================
+Image  : C:\Users\VivoBook\OneDrive\Desktop\Coding\CODSOFT\Task3_Image_Captioning\sample_images\dog.jpg
+Caption: a dog running in the grass with a red ball in its mouth
+------------------------------------------------------------

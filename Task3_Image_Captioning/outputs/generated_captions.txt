@@ -1,0 +1,14 @@
+
+============================================================
+Run timestamp: 2026-06-20 13:30:08
+============================================================
+Image  : C:\Users\VivoBook\OneDrive\Desktop\Coding\CODSOFT_INTERNSHIP\image_captioning_ai\sample_images\blue_square.jpg
+Caption: a blue square with a white background
+------------------------------------------------------------
+
+============================================================
+Run timestamp: 2026-06-21 23:02:09
+============================================================
+Image  : C:\Users\VivoBook\OneDrive\Desktop\Coding\CODSOFT_INTERNSHIP\image_captioning_ai\sample_images\dog.jpg
+Caption: a dog running in the grass with a red ball in its mouth
+------------------------------------------------------------

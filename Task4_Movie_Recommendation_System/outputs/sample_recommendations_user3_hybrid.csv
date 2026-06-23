@@ -1,0 +1,11 @@
+movieId,title,genres,content_score,predicted_rating,hybrid_score
+22,Fight Club (1999),Drama|Thriller,0.4623722659877948,3.35,0.902
+34,Joker (2019),Crime|Drama|Thriller,0.5581207564923908,3.16,0.78
+23,Gladiator (2000),Action|Adventure|Drama,0.4219256886158031,3.15,0.636
+13,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.5624905044465756,3.0,0.602
+15,Speed (1994),Action|Romance|Thriller,0.4041003605138399,3.1,0.562
+21,The Matrix (1999),Action|Sci-Fi,0.37200232113159204,3.11,0.542
+10,Star Wars: Episode IV (1977),Action|Adventure|Sci-Fi,0.38357214880544843,3.09,0.53
+25,The Incredibles (2004),Action|Adventure|Animation|Children|Comedy,0.27444108688444924,3.13,0.469
+37,Top Gun: Maverick (2022),Action|Drama,0.42573250786189787,2.99,0.458
+38,Everything Everywhere All at Once (2022),Action|Adventure|Comedy|Sci-Fi,0.4079474581588472,3.0,0.452

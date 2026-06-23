@@ -1,0 +1,4 @@
+,Precision@10,Recall@10,evaluated_users
+content,0.0697,0.5606,33.0
+collaborative,0.0545,0.4242,33.0
+hybrid,0.0667,0.5303,33.0
